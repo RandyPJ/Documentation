@@ -52,7 +52,7 @@ new Style(x => x.OfType<Button>().Name("myButton"));
 {% endtab %}
 {% endtabs %}
 
-Selects a control by its [`Name`](http://reference.avaloniaui.net/api/Avalonia/StyledElement/2362746E) property with a `#` charactor.
+Selects a control by its [`Name`](http://reference.avaloniaui.net/api/Avalonia/StyledElement/2362746E) property with a `#` character.
 
 ## Class <a id="class"></a>
 
